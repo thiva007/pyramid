@@ -22,6 +22,13 @@ public class Arr {
 		avg = sum/len;
 		System.out.println("sum of "+len+"number in "+sum);
 		System.out.println("average is "+avg);
-		}
+	
+	System.out.println("123456789");
+	
+	}
+	
+	
+	
+	
 	}
 
